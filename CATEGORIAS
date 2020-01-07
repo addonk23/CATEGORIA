@@ -1,13 +1,27 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FIMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - TUDO PARA CRIANÇADAS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FIMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+[COLOR deeppink]|[/COLOR] - OS MELHORES CANAIS - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -38,6 +52,20 @@
 
 
 [COLOR deeppink]|[/COLOR] - TUDO PARA CRIANÇADAS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FAVORITOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FAVORITOS - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
